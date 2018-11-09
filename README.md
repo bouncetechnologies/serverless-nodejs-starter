@@ -60,7 +60,7 @@ const message = ({ time, ...rest }) =>
 To create a new Serverless project.
 
 ```bash
-$ serverless install --url https://github.com/bouncetechnologies/serverless-nodejs-starter.git --name my-project
+$ serverless install --url https://github.com/bouncetechnologies/serverless-nodejs-starter --name my-project
 ```
 
 Enter the new directory
